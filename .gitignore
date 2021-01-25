@@ -79,7 +79,14 @@ PluginStaging/*
 Archive/*
 *.pdb
 *.pdb
-Plugins/GamepadUMGPlugin/Binaries/Win64/UE4Editor-GamepadUMGPlugin-0001.pdb
 *.old
 *.response
 *.old
+
+.idea/
+
+Plugins/*/Binaries/
+
+Plugins/*/Intermediate/
+
+*/Thumbs.db
