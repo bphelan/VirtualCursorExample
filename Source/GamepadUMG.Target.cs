@@ -8,7 +8,7 @@ public class GamepadUMGTarget : TargetRules
 	public GamepadUMGTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-
+		DefaultBuildSettings = BuildSettingsVersion.V2;
         ExtraModuleNames.Add("GamepadUMG");
 	}
 }

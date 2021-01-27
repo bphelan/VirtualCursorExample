@@ -1,0 +1,3 @@
+[submodule "Plugins/VirtualCursor"]
+	path = Plugins/VirtualCursor
+	url = https://github.com/bphelan/VirtualCursor
