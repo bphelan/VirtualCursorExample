@@ -90,3 +90,5 @@ Plugins/*/Binaries/
 Plugins/*/Intermediate/
 
 */Thumbs.db
+
+Plugins/Developer/RiderLink/
